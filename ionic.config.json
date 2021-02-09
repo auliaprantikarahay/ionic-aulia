@@ -1,0 +1,7 @@
+{
+  "name": "aulia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
